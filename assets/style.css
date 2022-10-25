@@ -46,7 +46,6 @@ p {
   font-size: 30px;
   justify-content: center;
   gap: 1rem;
-
 }
 
 .images {
@@ -57,7 +56,6 @@ p {
   margin-bottom: 40px;
   justify-content: center;
   gap: 2rem;
-
 }
 
 .h2 {
@@ -67,7 +65,6 @@ p {
   justify-content: center;
   flex-direction: column;
   text-size-adjust: 30px;
-
 }
 
 hr {
