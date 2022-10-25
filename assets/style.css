@@ -17,7 +17,6 @@
 
 .navbar a:hover {
   background-color: #5252ba;
-
 }
 
 .head {
@@ -57,7 +56,6 @@ p {
   margin-bottom: 40px; 
   justify-content: center;
   gap: 2rem;
-
 }
 
 .h2 {
@@ -67,12 +65,8 @@ p {
   justify-content: center;
   flex-direction: column;
   text-size-adjust: 30px;
-
 }
 
  hr {
   margin-top: -40px;
-
-}  
-
-
+}
