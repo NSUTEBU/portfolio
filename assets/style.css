@@ -45,18 +45,21 @@ p {
   background-color: #4d4d99;
   font-size: 30px;
   justify-content: center;
-  gap: 1rem; 
+  gap: 1rem;
+
 }
+
 .images {
   margin: auto;
   display: flex;
   flex-wrap: wrap;
   margin-top: 40px;
-  margin-bottom: 40px; 
+  margin-bottom: 40px;
   justify-content: center;
   gap: 2rem;
 
 }
+
 .h2 {
   text-align: center;
   margin-top: 20px;
@@ -64,6 +67,7 @@ p {
   justify-content: center;
   flex-direction: column;
   text-size-adjust: 30px;
+
 }
 
 hr {
