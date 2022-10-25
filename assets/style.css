@@ -1,0 +1,72 @@
+.navbar {
+  background-color: #be3144;
+  padding: 30px;
+  display: flex;
+  gap: 30px;
+  width: 100vh 100vh;
+  justify-content: flex-end;
+  font-size: large;
+}
+
+.navbar a {
+  text-decoration-line: none;
+  color: #f8eeee;
+  font-size: 25px;
+  padding: 12px;
+}
+
+.navbar a:hover {
+  background-color: #5252ba;
+}
+
+.head {
+  text-align: center;
+  font-size: 1.8rem;
+  background-color: #02021f;
+  font-weight: 400;
+  font-family: sans-serif;
+  flex-direction: column;
+  height: 100vh;
+  width: 150vh 150vh;
+  justify-content: center;
+  color: white;
+  display: flex;
+  margin: 10px;
+}
+
+p {
+  color: #e64040;
+}
+
+.projects-section {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  background-color: #4d4d99;
+  font-size: 30px;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.images {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.h2 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  justify-content: center;
+  flex-direction: column;
+  text-size-adjust: 30px;
+}
+
+hr {
+  margin-top: -40px;
+}
