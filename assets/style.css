@@ -6,8 +6,7 @@
     gap: 30px;
     width: 100vh 100vh;
     justify-content: flex-end;
-    font-size: large;
-    
+    font-size: large; 
 }
 .navbar a{
     text-decoration-line:  none;
@@ -32,7 +31,6 @@
     display: flex;
     margin: 10px;
 }
-
 p{
     color: rgb(230, 64, 64);
 }
@@ -43,8 +41,7 @@ p{
     background-color: rgb(77, 77, 153);
     font-size: 30px;
     justify-content: center;
-    gap: 1rem;
-    
+    gap: 1rem;   
 }
 .images{
     margin: auto;
@@ -54,7 +51,6 @@ p{
         margin-bottom: 40px; 
         justify-content: center;
         gap: 2rem;
-       
     }
 .h2 {
   text-align: center;
@@ -64,7 +60,7 @@ p{
   flex-direction: column;
   text-size-adjust: 30px;
 }
-      hr{
+hr{
         margin-top: -40px;
       }  
 
