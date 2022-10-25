@@ -16,14 +16,14 @@
 }
 
 .navbar a:hover {
-  background-color: rgba(82, 82, 185);
+  background-color: #5252ba;
 
 }
 
 .head {
   text-align: center;
   font-size: 1.8rem;
-  background-color: rgba(2, 2, 31);
+  background-color: #02021f;
   font-weight: 400;
   font-family: sans-serif;
   flex-direction: column;
@@ -35,19 +35,18 @@
   margin: 10px;
 }
 
- p{
-  color: rgba(230, 64, 64);
+p {
+  color: #e64040;
 }
 
 .projects-section {
   display: flex;
   flex-direction: column;
   color: white;
-  background-color:rgba(77, 77, 153);
+  background-color: #4d4d99;
   font-size: 30px;
   justify-content: center;
   gap: 1rem; 
-
 }
 
  .images {
@@ -71,11 +70,9 @@
 
 }
 
- hr{
+ hr {
   margin-top: -40px;
 
 }  
-
-
 
 
